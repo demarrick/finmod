@@ -1,0 +1,8 @@
+discord.py
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+
+
